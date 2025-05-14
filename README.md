@@ -1,12 +1,3 @@
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Juaoinacio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juaoinacio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juaoinacio&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
-
 ## 🌟 My Profile & Coding Activity
 
 <div align="center">
@@ -14,6 +5,15 @@
     <a href="https://wakatime.com/@Juaoinacio">
         <img src="https://wakatime.com/badge/user/132d7a0b-c5c4-4a30-89d3-d98622557331.svg" alt="Total time coded since Jul 18 2022" />
     </a>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Dionatann">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dionatann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dionatann&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 
 ---
