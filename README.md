@@ -3,7 +3,8 @@
 <div align="center">
     <p><strong>My Profile</strong> and coding time in projects:</p>
     <a href="https://wakatime.com/@Juaoinacio">
-        <img src="https://wakatime.com/badge/user/132d7a0b-c5c4-4a30-89d3-d98622557331.svg" alt="Total time coded since Jul 18 2022" />
+        <img src="https://wakatime.com/badge/user/ac313119-199b-4ed6-9b4c-4abacc152d18.svg" alt="Total time coded since Jul 18 2022" />
+        
     </a>
 </div>
 
