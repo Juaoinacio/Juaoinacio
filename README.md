@@ -15,5 +15,20 @@
   </a>
 </div>
 
+## ⭐ Knowledge Table
+
+| Language | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ |
+| -------- | :----: | :---: | :--: | :-: | :-: |
+| C#       | ✅     |       |      |     |     |
+| Python   | ✅     |       |      |     |     |
+| SQL      | ✅     |       |      |     |     |
+| Java     |        | ✅    |      |     |     |
+| JavaScript |      | ✅    |      |     |     |
+| HTML/CSS |        |       | ✅   |     |     |
+
+> ⚠ **Observação:**  
+> Você pode substituir os ✅ nas colunas conforme o seu nível de conhecimento para cada linguagem.  
+> 5 estrelas = especialista / 1 estrela = iniciante.
+
 ---
 
