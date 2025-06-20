@@ -25,6 +25,9 @@
 | SQL                  |        |       |     | ✅  |     |
 | Django               |        |       | ✅  |     |     |
 | Java                 |        |       |     |     | ✅  |
+| HTML                 |        |       |     | ✅  |     |
+| Tailwind             |        |       |     | ✅  |     |
+| Linux                |        |       |     |     | ✅  |
 
 </div>
 
